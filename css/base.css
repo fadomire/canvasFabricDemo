@@ -1,0 +1,23 @@
+@media (min-width:980px) {
+  body {
+    padding-top: 60px;
+  }
+}
+body {
+    margin-bottom: 30px;
+  }
+.canvas-container { margin: 0 auto; float: left; border: 1px solid #aaa; }
+.menu {
+  margin-bottom: 20px;
+}
+.menu img {
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: 1px solid white;
+}
+.menu img:hover{
+  border: 1px solid green;
+}
+.thumb {
+  height: 70px;
+}
